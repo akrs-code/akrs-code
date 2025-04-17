@@ -67,14 +67,6 @@
 
 ###
 
-## 📊 GitHub Commit Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrs-code&theme=dracula&hide_border=true" alt="GitHub commit streak" />
-</div>
-
-###
-
 ## 📊 GitHub Stats
 
 <div align="center">
