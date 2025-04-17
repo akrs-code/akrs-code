@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I'm Abdul-khaliq Ranao Solaiman — an aspiring IT professional passionate about web development, design, and continuous learning.<br><br>💻 I am currently working on:<br><br>Personal projects that focus on web development using Next.js and Tailwind CSS.<br><br>Building my portfolio to showcase both frontend and design projects.<br><br>Developing my problem-solving skills in coding and database management.<br><br>🤝 I am looking to collaborate on:<br><br>Open-source web applications.<br><br>UI/UX design projects.<br><br>Educational or tech community initiatives.<br><br>📚 I am currently learning:<br><br>Advanced JavaScript and React (Next.js).<br><br>Backend basics with Node.js and Express.<br><br>Improving my design-to-code workflow for responsive websites.<br><br>💡 Always open for ideas, feedback, and collaborations. Let’s connect and build something awesome!<br><br>
+About Me<br>
+Aspiring IT professional with a passion for web development, design, and continuous learning. Focused on building clean, efficient, and user-friendly solutions. Open to collaboration and always striving for growth, both personally and professionally.
 
 
 ## 🌐 Socials:
