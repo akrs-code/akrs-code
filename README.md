@@ -1,6 +1,5 @@
 # 💫 About Me:
-About Me<br>
-Aspiring IT professional with a passion for web development, design, and continuous learning. Focused on building clean, efficient, and user-friendly solutions. Open to collaboration and always striving for growth, both personally and professionally.
+<strong>Aspiring IT professional with a passion for web development, design, and continuous learning. Focused on building clean, efficient, and user-friendly solutions. Open to collaboration and always striving for growth, both personally and professionally.</strong>
 
 
 ## 🌐 Socials:
