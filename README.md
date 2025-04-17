@@ -67,6 +67,14 @@
 
 ###
 
+## 📊 GitHub Commit Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrs-code&theme=dracula&hide_border=true" alt="GitHub commit streak" />
+</div>
+
+###
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -81,10 +89,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akrs-code&theme=dracula&no-frame=true&row=1&column=4" height="150" alt="GitHub Trophies" />
 </div>
-
-###
-
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/akrs-code/akrs-code/output/snake.svg" alt="Snake Animation" />
-
