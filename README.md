@@ -1,5 +1,11 @@
 <h2 align="left">Hi 👋! I'm Abdul-khaliq Solaiman</h2>
-<h4 align="left">Aspiring IT professional with a passion for web development, design, and continuous learning. I focus on building clean, efficient, and user-friendly solutions. I'm always open to collaboration and dedicated to both personal and professional growth.</h4>
+<h4 align="left"I'm Abdul-Khaliq Ranao Solaiman—Khaliq for short—a digital crafter from Marawi City who loves blending creativity and code like a good cup of coffee.
+
+My journey started with curiosity, not credentials. From sketching app ideas to building real projects using Next.js, React, Figma, and WordPress, I’ve learned by doing—and by staying curious.
+
+I treat every project with the same focus I bring to karate: calm, precise, and purpose-driven. I build not just to make things work, but to make them feel right.
+
+Always learning, always creating—with code that’s clean and meaningful.</h4>
 
 ---
 
