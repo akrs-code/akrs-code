@@ -65,15 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="28" alt="WebStorm" />
 </div>
 
----
-
-## 📊 GitHub Commit Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akrs-code&theme=dracula&hide_border=true" alt="Commit Streak" width="400" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
