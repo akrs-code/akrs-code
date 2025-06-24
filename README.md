@@ -64,19 +64,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="28" alt="WebStorm" />
 </div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akrs-code&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akrs-code&layout=compact&langs_count=5&theme=dracula&hide_border=true" width="400" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrs-code&theme=dracula&no-frame=true&column=4" width="400" alt="GitHub Trophies" />
-</div>
