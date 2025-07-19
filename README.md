@@ -13,13 +13,13 @@ Always learning, always creating—with code that’s clean and meaningful.</h4>
 
 <div align="center">
   <a href="https://instagram.com/akrscode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat-square" height="30" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=flat-square" height="50" alt="Instagram" />
   </a>
   <a href="mailto:khaliq.business16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat-square" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat-square" height="50" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-khaliq-solaiman" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat-square" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat-square" height="50" alt="LinkedIn" />
   </a>
 </div>
 
