@@ -9,7 +9,7 @@ I love exploring new technologies, experimenting with code, and building project
 
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,express,php,laravel,mongodb,mysql,postgres,supabase,git,github,vercel,netlify,figma,postman,notion,wordpress,kali" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,nodejs,express,php,laravel,mongodb,mysql,postgres,supabase,git,github,vercel,netlify,docker,n8n,figma,postman,notion,wordpress,kali" />
   </a>
 </p>
 
